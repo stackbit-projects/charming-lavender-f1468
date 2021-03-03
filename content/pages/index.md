@@ -204,9 +204,9 @@ seo:
       value: The preview of the Startup theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: 'https://www.facebook.com/johnson.jackson.3954'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
