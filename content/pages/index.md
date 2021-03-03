@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: The Best Costa Rican Coffee
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
