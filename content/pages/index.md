@@ -191,7 +191,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
+  title: The Best Costa Rican Coffee
   description: TBCRC
   extra:
     - name: 'og:type'
