@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Stackbit Startup Theme
-  description: The preview of the Startup theme
+  description: TBCRC
   extra:
     - name: 'og:type'
       value: website
